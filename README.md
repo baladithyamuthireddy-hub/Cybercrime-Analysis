@@ -99,7 +99,7 @@ that can contribute to a better understanding of cybercrime activities.
 <h3>🏙️ City-wise Financial Loss from Cybercrime</h3>
 
 <p align="center">
-  <img src="screenshots/citywise_financial_loss.png" width="900">
+  <img src="screenshots/citywise_financial_loss.jpeg" width="900">
 </p>
 
 <p align="justify">
@@ -112,7 +112,7 @@ highlighting regions that experience the highest monetary losses.
 <h3>📈 Year-wise Financial Loss Due to Cybercrime</h3>
 
 <p align="center">
-  <img src="screenshots/yearwise_financial_loss.png" width="900">
+  <img src="screenshots/yearwise_financial_loss.jpeg" width="900">
 </p>
 
 <p align="justify">
@@ -125,7 +125,7 @@ helping identify periods of significant growth or decline.
 <h3>🛡️ Cybercrime Cases Across Different Categories</h3>
 
 <p align="center">
-  <img src="screenshots/cybercrime_categories.png" width="900">
+  <img src="screenshots/cybercrime_categories.jpeg" width="900">
 </p>
 
 <p align="justify">
@@ -138,7 +138,7 @@ making it easier to identify the most common types of cybercrime.
 <h3>🥧 Percentage Share of Cybercrime Incident Types</h3>
 
 <p align="center">
-  <img src="screenshots/incident_type_percentage.png" width="900">
+  <img src="screenshots/incident_type_percentage.jpeg" width="900">
 </p>
 
 <p align="justify">
