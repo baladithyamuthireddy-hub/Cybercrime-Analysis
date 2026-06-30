@@ -364,7 +364,7 @@ The Detailed Analysis page offers deeper insights using advanced visualizations 
 
 <h2>📁 Repository Structure</h2>
 
-
+```text
 Cybercrime-Analysis/
 │
 ├── Cybercrime_Analysis.ipynb
@@ -381,7 +381,7 @@ Cybercrime-Analysis/
     ├── dashboard_1.png
     └── dashboard_2.png
 
-
+```
 <hr>
 
 <h2>🚀 Future Enhancements</h2>
